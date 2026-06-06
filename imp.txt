@@ -1,8 +1,6 @@
 2nd project :: digital product selling eCommerce website ::
 extract pass : 098
- name : admin
-  pass : admin
- database = wordpress 
+
 
 
  Thems & plugins :: 
