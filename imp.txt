@@ -1,0 +1,29 @@
+2nd project :: digital product selling eCommerce website ::
+ name : admin
+  pass : admin
+ database = wordpress 
+
+
+ Thems & plugins :: 
+
+ Woostify Theme --  https://bloggdude.com/woostify
+Elementor --  https://bloggdude.com/elementor
+Dokan --  https://bloggdude.com/dokan
+Images & CSS Codes Download -- https://bloggdude.com/how-to-make-a-f...
+plugin : Woocommerce :: used to add add to cart and other ecommerce feature ;
+plyugin :: PDF invoice & packing slips for woocmmerce -- by WP overnight  :: this is sued foe the auto bil gewnrate ;
+contact Form 7 -- by rock lobster inc..
+TI woocommer wishlist -- by temp...  :: ised to add item in wishlist , have heart icons etc...
+
+Classic widgets --- by tonyia mark 
+
+MC4wp : mailchimp for wordpress ; when the user siginup they will add in your email market list ;
+SVG support -- by benbodhi 
+
+for downloaded the icons : svgrepo.com
+
+herw you can get the code for shortcode ::
+https://woocommerce.com/document/woocommerce-shortcodes/products/
+
+________________________________________________________________________
+
